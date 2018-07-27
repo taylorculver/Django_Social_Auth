@@ -1,0 +1,18 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: webmaster@localhost
+To: kenneth@gigantuan.net
+Date: Thu, 22 Sep 2016 01:04:26 -0000
+Message-ID: <20160922010426.72743.6992@Kenneths-MacBook-Pro.local>
+
+Hello from example.com!
+
+You're receiving this e-mail because user kenneth2 at localhost has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to http://127.0.0.1:8000/accounts/confirm-email/MQ:1bmsR8:RXoLmWMcVtvUMm0CQd_iNQNBSMc/
+
+Thank you from example.com!
+localhost
+-------------------------------------------------------------------------------
